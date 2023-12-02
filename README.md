@@ -8,7 +8,7 @@ I am a Front-End Developer based in Katowice, Poland. 🌍
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,tailwind,react,redux,ai,ps)](https://skillicons.dev)
 
-###Social Media
+### Social Media
 
 <a href='https://www.instagram.com/k0wal45/'>[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)</a>
 
