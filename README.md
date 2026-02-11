@@ -6,5 +6,5 @@ I am a Front-End Developer based in Katowice, Poland. 🌍
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,sass,react,nextjs,python,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,tailwind,sass,react,nextjs,python,sql,mongodb,prisma,linux,git,ai,ps)](https://skillicons.dev)
 
